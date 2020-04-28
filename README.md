@@ -18,6 +18,7 @@ If the Admin REST API needs to be accessed from remote (e.g. an administrator's 
 These scripts are written in Python 2.* and may not run with Python 3.*.
 
 ## Setting up test
-Copy the scripts to a suitable host, e.g. to the Totemomail host iteslf.
-```chmod ug+x tm*.py```
-Run one of the scripts locally.
+Copy the scripts to a suitable host, e.g. to the Totemomail host itself.  
+```chmod ug+x tm*.py```  
+Run one of the scripts locally.  
+  
