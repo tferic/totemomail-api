@@ -15,7 +15,8 @@ Login to the Totemomail Administration GUI as administrator, go to "Settings - M
 If the Admin REST API needs to be accessed from remote (e.g. an administrator's browser), the local firewall and zone firewall would have to allow TCP port 8444.  
 
 ## Scripts
-These scripts are written in Python 2.* and may not run with Python 3.*.  
+These scripts are written in Python 2 and may not run with Python 3.  
+They were only tested running on Linux.
 
 ## Setting up test
 Copy the scripts to a suitable host, e.g. to the Totemomail host itself.  
