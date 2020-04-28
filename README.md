@@ -19,6 +19,7 @@ These scripts are written in Python 2.* and may not run with Python 3.*.
 
 ## Setting up test
 Copy the scripts to a suitable host, e.g. to the Totemomail host itself.  
-```chmod ug+x tm*.py```  
+```git clone https://github.com/tferic/totemomail-api.git
+chmod ug+x tm*.py```  
 Run one of the scripts locally.  
   
