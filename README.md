@@ -7,7 +7,7 @@ Professional services for further customizations can be aquired through Belsoft 
 https://belsoft-collaboration.ch/totemo/  
 
 # Usage
-These scripts are inteded to run on localhost (i.e. the operating system where Totemomail runs), but they could be changed to run from remote.  
+These scripts are inteded to run on localhost (i.e. the operating system where Totemomail runs), but they could be modified to run from remote.  
 
 ## Requirements
 On Totemomail, the Admin REST API needs to be enabled, as it is disabled by default.  
