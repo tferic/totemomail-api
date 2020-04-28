@@ -21,6 +21,7 @@ These scripts are written in Python 2.* and may not run with Python 3.*.
 Copy the scripts to a suitable host, e.g. to the Totemomail host itself.  
 ```
 git clone https://github.com/tferic/totemomail-api.git  
+cd totemomail-api  
 chmod ug+x tm*.py
 ```  
 
