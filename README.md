@@ -26,5 +26,5 @@ cd totemomail-api
 chmod ug+x tm*.py
 ```  
 
-Run one of the scripts locally.  
+Run one of the scripts locally on a command line.  
   
